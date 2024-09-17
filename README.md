@@ -1,1 +1,3 @@
-# learning-git
+todo list
+
+ aku mau makan
