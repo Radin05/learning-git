@@ -1,1 +1,3 @@
-# learning-git
+todo list
+
+  mau mandi
